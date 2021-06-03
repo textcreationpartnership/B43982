@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short view of the manifest and remonstrance lately published in the name of the county of Kent</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43982</idno><idno type="EEBO-CITATION">690988688</idno>
+  <idno type="VID">211696</idno>
+  <idno type="EEBO-PROQUEST">2240871808</idno>
+  
+            <idno type="OCLC"> 690988688</idno>
+            <idno type="OCLC">ocn 690988688</idno>
+            <idno type="STC">Wing S3641</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211696)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2984:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short view of the manifest and remonstrance lately published in the name of the county of Kent</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211696:1"/>
+            <pb n="1" facs="tcp:211696:2"/>
+            <head>
+               <hi>A Short view of the</hi> MANIFEST <hi>and</hi> REMONSTRANCE <hi>lately published in the name of the County of</hi> Kent.</head>
+            <p>THough it might seem the extream Act of folly to de<g ref="char:EOLhyphen"/>scend to an observance of each rude Aspersion on de<g ref="char:EOLhyphen"/>rived Powers, when the Highest Court of Judicature, and Fountain of Authority hath been openly traduc'd, and even prophaned by the irreverent reproaches of Malevo<g ref="char:EOLhyphen"/>lent and impure tongues and seditious papers; yet lest through the advantage of silence, the contrivers and spread<g ref="char:EOLhyphen"/>ers of those late insolent scandals, should occasionally tri<g ref="char:EOLhyphen"/>umph; Reason wil forgive me the waste of that brief discourse which betrayes Calumnies, and clear the proceedings of the most wise, and (when time shall scatter the present Clouds, and make way for the breaking out of Truth) the most Ap<g ref="char:EOLhyphen"/>parently innocent Committee.</p>
+            <p>The turbulent and unquiet spirits, which were for a long time kept under by the care and vigilancy of a faithfull Com<g ref="char:EOLhyphen"/>mittee, taking advantage of some distractions in other parts of this Relapsed Kingdome, and the diversions of the Army grew so factiously bold as to sling off their (now uselesse) vi<g ref="char:EOLhyphen"/>zard, and appear bare-fac'd in the field, with a <hi>Sword</hi> and a <hi>Manifest,</hi> things fitly conioyned, where the infamy of the lat<g ref="char:EOLhyphen"/>ter, must be beholden for supportance to the violence of the former; wherein yet they make nothing manifest to the eyes of the world, but the Rotten fruits of old <hi>Malignancy,</hi> not as then utterly extirpated through the mercies of <hi>Parliament,</hi> and Lenity of those men whom yet they rise up in Armes a<g ref="char:EOLhyphen"/>gainst for conceived wrongs, and Immaginary oppression, then intrusting the vigor of their applauded <hi>Manifest,</hi> as want<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:211696:3"/> stings to wound singly, (though in coniunction with the Sword) they let flie a <hi>Remonstrance,</hi> in which after a vain sug<g ref="char:EOLhyphen"/>gestion of necessity, exasperating and insinuating their Armies at Publique Peace (The ordinary Guise of all Rebellions) They invade the Persons of particular men, and by such lime-twigs attempt to ensnare the mindes, and hold the hearts of the unwary vulgar, although in both those iniurious Papers they limit their Grievances within the Pale of their own County, having either too little of valour, or else too much of cunning, to assault the Power of the two most Honoura<g ref="char:EOLhyphen"/>ble Houses of <hi>Paliament</hi> in a plain open behaviour.</p>
+            <p>Yet ('tis evident) their Reach was at that Judicature, &amp; how<g ref="char:EOLhyphen"/>ever they drive their design in a narrower compasse, and after a more plausible manner, yet their Grasp was at that High Court, and their onely end to give the honour and very be<g ref="char:EOLhyphen"/>ing of <hi>Parliaments,</hi> mortall <hi>wound,</hi> through the bleeding sides of that Loyal obedient and ever <hi>Renowned Committee.</hi>
+            </p>
+            <p>To enter here on a narration of their saithfull Acts, and un<g ref="char:EOLhyphen"/>paraleld services, consecrated to the good of the State, ever since the first Buddings of the Kingdoms distractions, how Impartially iust some of them have been in the execution of <hi>Ordinances,</hi> even to the prostrating as it were their own natural affections, at the Feet of Justice, and their intrusters Com<g ref="char:EOLhyphen"/>mands. And how have they been generally lookt upon as the chief Pillars of <hi>Parliament,</hi> and prop of Liberties, &amp; conse<g ref="char:EOLhyphen"/>quently have alwayes proved; but now of late more excessive<g ref="char:EOLhyphen"/>ly offensive to the eyes of men eminently disaffected.</p>
+            <p>This Copious Narration would be inconsistent with in<g ref="char:EOLhyphen"/>tended brevity, and challenge a more speciall and leisurable imployment, I shall only touch the particular charges, and from the weaknesse of the Crimes objected, leave to every indifferent man to consider the strength of envy, and the sharpnesse of her stomack, that can so hastily leap at empty bates, and bite almost at nothing.</p>
+            <p>As to the <hi>Manifest,</hi> the first thing they labour to Brand the
+<pb n="3" facs="tcp:211696:3"/> Integrity of the Committee with, is the suppressing of a Peti<g ref="char:EOLhyphen"/>tion; 'Tis true, some writing there was contrived, &amp; pen'd by the Factious of that County, in opposition whereunto, the reverent <hi>Committee</hi> issued out orderly, &amp; summons the Coun<g ref="char:EOLhyphen"/>ty Forces, but whether it own'd that name wil be only affir<g ref="char:EOLhyphen"/>matively decided, by such Persons who have the Power, or rather impudence to new stamp <hi>Violence,</hi> and Christen <hi>Sedi<g ref="char:EOLhyphen"/>tian,</hi> by the Specious name of an humble Petition: When an Armed multitude Accoasts some number of naked travellers in the <hi>Kings</hi> High-way, and with the prevailing Rhetorick of <hi>Swords</hi> and <hi>Pistols</hi> begs their Almes; would any but one as senslesse as that multitude would be resolute and mercilesse, account such demanders in the Rank of simple Beggers? And should not this <hi>Committee</hi> have forfeited, not their Fide<g ref="char:EOLhyphen"/>lities onely, but their very Reasons, if being intrusted with the Peace and quiet of that County throughout swarm<g ref="char:EOLhyphen"/>ing with Troops of Horses, and Companies of Foot; After having seiz'd the Publique <hi>Magazines,</hi> possest themselves of strong houlds, renounced hostility, against all who should endeavonr to oppose them, and all this under the shadow and fair pretence of a Petition.</p>
+            <p>I say, if they had not withstood such violent perparations, but had even befool'd their own judgement, to a silly belief; that such furious preparers, were but honest and well meaning Petitioners: This confest the wise <hi>Committee</hi> oppos'd their Councels and Power, before any Actuall Armings and open Postures of War and defiance. But as in the Naturall body, prevention is the best part of Physick, so in Policies and State-Government, 'tis the highest commendablest part of Guber<g ref="char:EOLhyphen"/>native wisdome to anticipate the Councels of Seditious heads, and to stifle Faction in the very conception, lest comming to a birth, and gathering strength, it grow too unweildy and Potent for suppression.</p>
+            <p>Could that <hi>Committee</hi> be so unskilful in the Astronomy of that ever-rowling and unsetled County, as after the narrowest
+<pb n="4" facs="tcp:211696:4"/> and exactest Observations, of the number and quality of ex<g ref="char:EOLhyphen"/>halations, which from time to time had evaporated in those parts, to be ignorant at last; what fiery Meteors would neces<g ref="char:EOLhyphen"/>sarily kindle from the confluence of such unwholsome mat<g ref="char:EOLhyphen"/>ter, and after Demonstracy of the necessity of event, could they do lesse then bestir their strengths, to keep off the fatall Combustion? had the <hi>Committee</hi> for many uninterrupted years sate as it were at the beds-head of that labouring and feavourish body, and actually cured it of many desperate di<g ref="char:EOLhyphen"/>stempers, as that of <hi>Dover, Tunbridge, Canterbury;</hi> &amp; the last late unparaleld Petitionary Insurrection, raised by that Arch Monopolizing Rebell, <hi>Goring</hi> and his complices. And was it not proved at this instant, after the addition of so long times experience, it should not discover the marks of inwardly pu<g ref="char:EOLhyphen"/>tred ulcers, and even in the fair and healthful countenance of a Petition, read the <hi>Character</hi> of <hi>Ruine</hi> and <hi>Rebellion,</hi> when in their well-grounded judgments, they foresaw the fire approa<g ref="char:EOLhyphen"/>ching, should they have expected till the flame had seized on them, and have defer'd the laying on the remedy, till the soar had grown too wide for the plaister; had the wisdome of that prudent <hi>Committee</hi> miscarried, in their sentences, on so e<g ref="char:EOLhyphen"/>vident, so Malignant a Symptome, they had lost the credit of all their former cures, and the past Recoveries of that diseased County, would have been adjudged but the works of chance and immediate providence, and not the actings of a skilfull and carefull <hi>Committee.</hi>
+            </p>
+            <p>Secondly, the next thing which the <hi>Manifest</hi> vents, to make odious the very name of a <hi>Committee,</hi> For what is more intol<g ref="char:EOLhyphen"/>lerable then unlimmited Taxations in their increasing of Taxes of the County above the due proportion? How easie is it for men who look through Glasses of their own chusing, to erre in the just proportion of quantity, and to mistake mole<g ref="char:EOLhyphen"/>hils for mountains, when either a naturall Avarice, or a strong disaffection to the cause, be the false prospective to convey the Image of a Tax, to the unwilling fansy, how unproportio<g ref="char:EOLhyphen"/>nate
+<pb n="5" facs="tcp:211696:4"/> and beyond all degrees of measure must that Tax ap<g ref="char:EOLhyphen"/>peare? whereas the inproportion still lies not in the object, which is but ordinary and mean, <hi>Rebus sic stantibus,</hi> but in their own eyes distracted, by the inequality of their contrary affections, and perverted judgments.</p>
+            <p>But had these <hi>Manifesters</hi> either mind or leisure, to compare their money with their wars, in a just and equall account, they would soon find the alledged interruption, lest any yet appear to be rather on their side of the bargaine; For was it possible, had themselves been their own Traders, and had managed the businesse of Peace and content, they should ever made a better market, then the <hi>Committee</hi> hath done for them? could they have bought Ease and Rest at an easier hand? Other Counties have bled as much in their veines as these men in their purses; and even in their purses too, have they bled in a more evcessive manner, having had their houses fired, their goods Plundred, their Persons stripped, and imprisoned, and yet endure all with more moderate relentings; contented though late, to be rid of the fury of war; and now at last to enjoy a dear-bought Peace within their Ruin'd habitations. How many even amongst these now-Repining <hi>Manifestors,</hi> were formerly themselves Actors and Promoters of these now Scandalized Assessements, yet now look back upon them as Grievances, and tumultuously declare against them, al<g ref="char:EOLhyphen"/>though with that desertlesse Mariner in a storm they could have once vowed Candles as big as their Ship-Masts, to the Patron should protect them, yet having once recovered the Shoar to safe harbor, they think much one of ten to the pound; like unthankfull foolish Merchants, they bewail from the secure harbor, those trifling goods they flung out, as a Pledge for their lives, in the extreame rage of a violent Tem<g ref="char:EOLhyphen"/>pest; so unmindful are they of past benefits, and present grudgers of what they once freely parted with; in times of troubles and visible dangers, that they even quarrel (being made well) at their Phisitians, for too much letting them
+<pb n="6" facs="tcp:211696:5"/> bloud, though thereby they received their health; and had they then bled lesse, they might have perchance now wanted veines to bleed at all.</p>
+            <p>Now to the Remonstrance, lest Generals should not take <hi>(Nam dolus versatur in Universalibus)</hi> which those who ex<g ref="char:EOLhyphen"/>pect distincter knowledge in Impeachment of such concern<g ref="char:EOLhyphen"/>ment, and lest the Pil should not go smoothly down which was so guilded over with Liberty and Peace, they Ransack the mouths of parcidular persons, and bring their words to the Bar, for a general condemnation.</p>
+            <p>First they Arraign S<seg rend="sup">r</seg>
+               <hi>Antony Welden,</hi> a man so elevated in inward worth, and very high in his Countreys service, that (it seems) envy her self was put to miserable shifts, to find matter to besmear him, at last was forced to rake the very kennel, and gather up thence those fragments of Coller, which that most worthy Knight had spit out of his mouth; which yet (in the worse construction) are but the Boylings up of a just and Noble indignation.</p>
+            <p>Next they attach the speech of M<seg rend="sup">r</seg>
+               <hi>Beale,</hi> a very wel affected Gentleman (and a worthy member of that Honourable <hi>Com<g ref="char:EOLhyphen"/>mittee)</hi> unable (as it should seem) to tax him farther, and from such aiery foundations, erect the Castles of their fears, and ungrounded presumptions; Is not that man think you in a very desperate condition, who in the midst of his precipitacy is constrained to catch at straws? and those are his surest holds to save his neck the breaking: What stronger supports have these men, who catch at, and are enforced to fasten on the brittle and slippery matter of words, to secure their head-long courses, from the suspition and danger of <hi>Rebellion?</hi> must not their actions be extreamly Regular, and very even, on which envy cannot stick, but thence slides off to words; and rests satisfyed to have found a flaw in their manner of ex<g ref="char:EOLhyphen"/>pressions.</p>
+            <p>
+               <hi>These Remonstrers</hi> (like that <hi>Romane Emperor,</hi> who to busie himselfe, would kill flies) rather then suffer their discontents
+<pb n="7" facs="tcp:211696:5"/> to remain idle, will imploy them on subjects as mean and re<g ref="char:EOLhyphen"/>diculous, as infects and wil fill the mouths of these, whom they have deluded into Commotions, with spoonfuls of <hi>Eye<g ref="char:EOLhyphen"/>meates</hi> and vanishing accusations.</p>
+            <p>Words in this case are but meer Ciphers, and signifie no<g ref="char:EOLhyphen"/>thing but in association with actions, they more fright, then either hurt, or harm; and are but the innocent Thunder of a just zeal, provoked by a strong feare of Lawes and liberties, at the point to be swallowed up by the gulfe of Tumults and Insurrections: The story of King <hi>James</hi> is notable for e<g ref="char:EOLhyphen"/>ruptions of Passion, who though but a simple unknown Countrey-man, had by meer chance but crost his sports, in pursuit of his game in hunting, would in a wrathfull dis<g ref="char:EOLhyphen"/>pleasure command him to the Gallows, yet was his Reign as Peaceable and gentle, as his speech was Rough and hasty; whether were those injust, and (if executed) the most Tyran<g ref="char:EOLhyphen"/>nicall Command esteemed an usurpation, over the lives and estates of Persons, by His word of mouth so imperiously condemned?</p>
+            <p>What but a disturbed hunting drew from a wise but Passi<g ref="char:EOLhyphen"/>onate King, (whose very words notwithstanding carry Power in them) might not the apprehension of an afflicted Country ready to be exposed to the humours and lusts of impatient men, with much more reason extort from the lips of trusty Magistrates, overborn with a Pious zeal and affection to their Country, however these Remonstrancers should have afforded us the occasions, and the entire Chain of the circumstances of those speeches, otherwise they quote words, but as the De<g ref="char:EOLhyphen"/>vill sometimes brought in Scripture. They silence that one part, or necessary adjunct of expression, which might per<g ref="char:EOLhyphen"/>chance quite destroy; at least qualify and moderate the Rigor of the other: When such furious objectors shall actually find either their bodies exposed to open punishments, or their tired fouls languishing with inward vexations.</p>
+            <p>'Twill be indeed high and full time to complaine, but not
+<pb n="8" facs="tcp:211696:6"/> of some occasional Prophetick speeches, refering to such ends, but of their own disobediences and insolencies, which drew down upon them such exemplary judgements. But lest this hasty discourse should run out as far in length, as the <hi>Manifest</hi> fals short of truth, and the <hi>Remonstrance</hi> of strength, I shall only adde: That the <hi>Interests</hi> of <hi>Parliament,</hi> are so twisted with the present Interests of this honoured <hi>Committee,</hi> that the fall of the latter must of necessity give a main crack to the Fabrick of the former. And therefore though the Blow was Immediately directed against this one Branch of Power, yet was it Really and effectually intended against the Root and Foundation of all just Rights, and Legall Authority: But the Plot according to the successe of all, (for the most part) disloyal causes, have failed of that main end; and the too for<g ref="char:EOLhyphen"/>ward Actors, instead of sinking others, have themselves been swallowed down, in the noysome waters of their own trou<g ref="char:EOLhyphen"/>bling.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
